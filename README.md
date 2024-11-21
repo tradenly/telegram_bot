@@ -156,7 +156,7 @@ The project is currently setup in two main branches:
 
 ### Help / Telegram
 
-For any questions not covered by the documentation or for further information about the bot, or to simply engage with like-minded individuals, we encourage you to join the Freqtrade [telegram server](https://t.me/tradenly).
+For any questions not covered by the documentation or for further information about the bot, or to simply engage with like-minded individuals, we encourage you to join the Tradenly [telegram server](https://t.me/tradenly).
 
 
 
